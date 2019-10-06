@@ -1,10 +1,14 @@
 # Autonomous-Sentry-Gun
 Detect face tracking human motion
+
 This programe allows the camera attached on the guns to track and detect human face
+
 Once human face is detected, the gun will trigger
 
 One servo at the trigger
+
 One servo for x-axis turning. This servo holds the camera
+
 One servo for y-axis turning. This servo stands on the ground
 
 
