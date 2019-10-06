@@ -14,7 +14,7 @@ One servo for y-axis turning. This servo stands on the ground
 
 Step 1: Application Setup
 
-- Andruino: https://www.arduino.cc/en/main/software
+- Arduino: https://www.arduino.cc/en/main/software
 - Processing: https://processing.org/download/
 - Download Processing library for the OpenCV computer vision library: https://github.com/atduskgreg/opencv-processing
 - Copy video libary to processing library folder
